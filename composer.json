@@ -24,7 +24,7 @@
     },
     "autoload": {
         "psr-4": {
-            "bolden\\htmlcache\\": "src/"
+            "jpwdesigns\\htmlcache\\": "src/"
         }
     },
     "extra": {
@@ -33,6 +33,6 @@
         "schemaVersion": "1.0.0",
         "hasCpSettings": true,
         "hasCpSection": false,
-        "class": "bolden\\htmlcache\\HtmlCache"
+        "class": "jpwdesigns\\htmlcache\\HtmlCache"
     }
 }
